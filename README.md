@@ -10,5 +10,5 @@ on the "Bot TOKEN-HERE" don't replace the Bot part as that is required!
 
 # Credits
 
-0xA#7978
-Someone Insane#7688
+0xA#7978 -- Outdated
+Someone Insane#7688 -- Outdated
